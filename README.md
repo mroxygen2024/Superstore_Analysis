@@ -24,12 +24,14 @@ Key areas explored in this notebook include:
 - **Data Splitting & Merging**: Demonstrating data manipulation techniques by splitting and merging subsets of the data.
 - **Data Visualization**: Creating various charts (line plots, bar plots, pie charts) to visually represent trends and distributions.
 
-## Key Findings (Examples - you can update with your specific findings)
+## Key Findings
 
-*   **Most Profitable Category**: `Technology` emerged as the most profitable category.
-*   **Least Performing Region**: The `Central` region showed the lowest profit.
-*   **Sales and Profit Patterns**: Visualizations indicate varying profit margins across sub-categories, with some high-sales sub-categories yielding negative profits.
-*   **Important Trends Over Time**: Monthly sales and profit trends show seasonality and growth over the analyzed period.
+Based on the analysis:
+
+*   **Most Profitable Category**: `Technology` is the most profitable category, generating a total profit of `145454.95`.
+*   **Least Performing Region (by Profit)**: The `Central` region is the least profitable, with a total profit of `39706.36`.
+*   **Sales and Profit Patterns**: It was observed that not all high-sales sub-categories translate to high profits. Some sub-categories like 'Tables' and 'Bookcases' show significant sales but incur losses, indicating potential pricing or cost issues. Conversely, 'Copiers' and 'Phones' are highly profitable. The 'Profit Ratio' calculation highlighted variations in profitability across sub-categories, providing a clearer picture than just raw sales or profit figures.
+*   **Important Trends Over Time**: Monthly sales and profit trends show fluctuations, with distinct seasonal peaks (e.g., end-of-year periods), generally indicating an upward trend over the years of data.
 
 ## How to View and Run the Notebook
 
